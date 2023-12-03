@@ -1,1 +1,1 @@
-// Write your solution in this file!
+// JS Objects lab 🤩
